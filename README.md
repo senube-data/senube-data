@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요, {조수빈}입니다 👋</h1>
+<h1 align="center">안녕하세요, *조수빈*입니다 👋</h1>
 <h3 align="center">데이터를 통해 문제를 정의하고 해결하는 데이터·AI 직무를 준비하고 있습니다.</h3>
 
 <p align="center">
@@ -10,9 +10,9 @@
 ## 🙋‍♀️ About Me
 
 - 🔭 현재 **데이터 분석 / 머신러닝** 분야로의 전향을 준비하고 있습니다.
-- 🌱 요즘은 **{KT AICE Associate를 통한 데이터 분석 스킬업, SQL}** 을 집중적으로 학습하고 있습니다.
-- 💡 비전공 배경과 회계직의 경험 덕분에 **{문제를 사용자 관점에서 보는 시각}** 으로 데이터를 바라봅니다.
-- 📫 연락처: **{sbeen0711@gmail.com}**
+- 🌱 요즘은 **KT AICE Associate를 통한 데이터 분석 스킬업, SQL** 을 집중적으로 학습하고 있습니다.
+- 💡 비전공 배경과 회계직의 경험 덕분에 **문제를 사용자 관점에서 보는 시각** 으로 데이터를 바라봅니다.
+- 📫 연락처: **sbeen0711@gmail.com**
 
 ---
 
@@ -36,7 +36,7 @@
 ## 📊 Featured Projects
 
 ### 1. {프로젝트 이름 — 은행 신용카드 사용고객의 이탈 예측}
-- **한 줄 소개:** {신용카드 이탈 예상 고}
+- **한 줄 소개:** {신용카드 이탈 예상 고객를 찾아 이탈 방지를 위한 고객 타겟 예측}
 - **사용 기술:** Python, Pandas, scikit-learn, seaborn
 - **내가 한 일:** { 결측치 처리 → 모델 비교 → recall 0.7에서 0.8 달성}
 - 🔗 [프로젝트 보러가기]({프로젝트_저장소_링크})
@@ -46,8 +46,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username={깃허브아이디}&show_icons=true&theme=default&hide_border=true&locale=ko" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={깃허브아이디}&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username={senube-data}&show_icons=true&theme=default&hide_border=true&locale=ko" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={senube-data}&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
 </p>
 
 ---
