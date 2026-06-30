@@ -39,7 +39,7 @@
 - **한 줄 소개:** 신용카드 이탈 예상 고객를 찾아 이탈 방지를 위한 고객 타겟 예측
 - **사용 기술:** Python, Pandas, scikit-learn, seaborn
 - **내가 한 일:** 결측치 처리 → 모델 비교 → recall 0.7에서 0.8 달성
-- 🔗 [프로젝트 보러가기]({프로젝트_저장소_링크})
+- 🔗 [프로젝트 보러가기](https://github.com/senube-data/project-storage/blob/cabd3da98c5b690bc043cff7d4b422f70ba13a35/%EC%9D%80%ED%96%89%20%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%20%EC%9D%B4%ED%83%88%20%EC%98%88%EC%B8%A1-%EC%A1%B0%EC%88%98%EB%B9%88.ipynb)
 
 ---
 
