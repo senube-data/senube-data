@@ -11,7 +11,7 @@
 
 - 🔭 현재 **데이터 분석 / 머신러닝** 분야로의 전향을 준비하고 있습니다.
 - 🌱 요즘은 **KT AICE Associate를 통한 데이터 분석 스킬업, SQL** 을 집중적으로 학습하고 있습니다.
-- 💡 비전공 배경과 회계직의 경험 덕분에 **문제를 사용자 관점에서 보는 시각** 으로 데이터를 바라봅니다.
+- 💡 비전공 배경과 회계직의 경험 덕분에 **문제를 사용자 관점에서 보는 시각** 으로 데이터를 바라봐 **매출 데이터의 맥락**을 빠르게 이해합니다.
 - 📫 연락처: **sbeen0711@gmail.com**
 
 ---
@@ -56,6 +56,3 @@
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:{sbeen0711@gmail.com})
 
-LinkedIn을 쓰신다면 아래처럼 추가할 수 있습니다:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](링크)
--->
