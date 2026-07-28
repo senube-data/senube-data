@@ -46,7 +46,7 @@
 ### 2. 프로젝트 이름 — 기온 변화 예측
 - **한 줄 소개:** 환경 데이터를 활용한 지역 연평균 기온 예측 예측
 - **사용 기술:** pandas, seaborn, matplotlib, scikit-learn, TensorFlow/Keras 
-- 🔗 [프로젝트 보러가기](https://github.com/senube-data/project-storage)
+- 🔗 [프로젝트 보러가기](https://github.com/senube-data/climate-temperature-prediction)
 
 ---
 
