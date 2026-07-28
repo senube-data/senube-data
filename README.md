@@ -11,7 +11,7 @@
 
 - 🔭 현재 **데이터 분석 / 머신러닝** 분야로의 전향을 준비하고 있습니다.
 - 🌱 요즘은 **KT AICE Associate를 통한 데이터 분석 스킬업, SQL** 을 집중적으로 학습하고 있습니다.
-- 💡 비전공 배경과 회계직의 경험 덕분에 **문제를 사용자 관점에서 보는 시각** 으로 데이터를 바라봐 **매출 데이터의 맥락**을 빠르게 이해합니다.
+- 💡 비전공 배경과 회계직의 경험 덕분에 **문제를 사용자 관점에서 보는 시각** 으로 데이터를 바라봐 **매출 데이터의 맥락**을 빠르게 이해할 수 있습니다.
 - 📫 연락처: **sbeen0711@gmail.com**
 
 ---
@@ -46,6 +46,11 @@
 ### 2. 프로젝트 이름 — 기온 변화 예측
 - **한 줄 소개:** 환경 데이터를 활용한 지역 연평균 기온 예측 예측
 - **사용 기술:** pandas, seaborn, matplotlib, scikit-learn, TensorFlow/Keras 
+- 🔗 [프로젝트 보러가기](https://github.com/senube-data/climate-temperature-prediction)
+
+### 2. 프로젝트 이름 — 대출 상환 예측
+- **한 줄 소개:** 신청자의 개인 정보와 금융 이력으로 대출 상환 가능성 점수(0~100)를 예측
+- **사용 기술:** pandas, seaborn, matplotlib, scikit-learn, XGBoost, TensorFlow/Keras 
 - 🔗 [프로젝트 보러가기](https://github.com/senube-data/climate-temperature-prediction)
 
 ---
