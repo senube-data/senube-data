@@ -48,7 +48,7 @@
 - **사용 기술:** pandas, seaborn, matplotlib, scikit-learn, TensorFlow/Keras 
 - 🔗 [프로젝트 보러가기](https://github.com/senube-data/climate-temperature-prediction)
 
-### 2. 프로젝트 이름 — 대출 상환 예측
+### 3. 프로젝트 이름 — 대출 상환 예측
 - **한 줄 소개:** 신청자의 개인 정보와 금융 이력으로 대출 상환 가능성 점수(0~100)를 예측
 - **사용 기술:** pandas, seaborn, matplotlib, scikit-learn, XGBoost, TensorFlow/Keras 
 - 🔗 [프로젝트 보러가기](https://github.com/senube-data/climate-temperature-prediction)
