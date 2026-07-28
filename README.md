@@ -28,7 +28,10 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white)
 
 
 ---
@@ -38,7 +41,11 @@
 ### 1. 프로젝트 이름 — 은행 신용카드 사용고객의 이탈 예측
 - **한 줄 소개:** 신용카드 이탈 예상 고객를 찾아 이탈 방지를 위한 고객 타겟 예측
 - **사용 기술:** Python, Pandas, scikit-learn, seaborn
-- **내가 한 일:** 결측치 처리 → 모델 비교 → recall 0.7에서 0.8 달성
+- 🔗 [프로젝트 보러가기](https://github.com/senube-data/project-storage)
+
+### 2. 프로젝트 이름 — 기온 변화 예측
+- **한 줄 소개:** 환경 데이터를 활용한 지역 연평균 기온 예측 예측
+- **사용 기술:** pandas, seaborn, matplotlib, scikit-learn, TensorFlow/Keras 
 - 🔗 [프로젝트 보러가기](https://github.com/senube-data/project-storage)
 
 ---
@@ -46,8 +53,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username={senube-data}&show_icons=true&theme=default&hide_border=true&locale=ko" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={senube-data}&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=senube-data&show_icons=true&theme=default&hide_border=true&locale=ko" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senube-data&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
 </p>
 
 ---
