@@ -53,14 +53,6 @@
 - **사용 기술:** pandas, seaborn, matplotlib, scikit-learn, XGBoost, TensorFlow/Keras 
 - 🔗 [프로젝트 보러가기](https://github.com/senube-data/loan_repayment_prediction)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senube-data&show_icons=true&theme=default&hide_border=true&locale=ko" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senube-data&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
-</p>
 
 ---
 
